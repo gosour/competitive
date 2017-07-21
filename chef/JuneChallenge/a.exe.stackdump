@@ -1,0 +1,9 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=00401422
+eax=00035150 ebx=00000000 ecx=2D990E1F edx=00000000 esi=00000000 edi=00000000
+ebp=0073CC68 esp=0073CBF0 program=D:\Dev\comp\chef\JuneChallenge\a.exe, pid 16304, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0073CC68  00401422 (00000001, 0073CC8C, 20010100, 610083CF)
+0073CD18  6100842E (00000000, 0073CD74, 61007530, 00000000)
+End of stack trace
